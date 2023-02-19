@@ -1,0 +1,12 @@
+.row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 50%;
+  }
+
+  footer {
+    text-align: center;
+    padding: 3px;
+  }
